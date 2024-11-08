@@ -54,7 +54,7 @@ The dashboard visualizes employee attrition data, highlighting key metrics such 
 - **Attrition by Educational Field**: Visualizes attrition rates based on employees' educational background.
 - **Attrition by Age Group and Gender**: Displays gender-based attrition in different age groups.
 
-![HR Dashboard](./path-to-hrdata.jpg)
+![HR Dashboard](https://github.com/Margnet-data/HR-DATA-LITA-CLASS/blob/main/hrdata.jpg)
 
 The visualization reveals trends in attrition and helps identify areas for focused analysis.
 
