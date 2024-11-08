@@ -94,6 +94,6 @@ Based on the findings, here are key recommendations to reduce attrition:
    - Career pathing, regular feedback sessions, and training opportunities may make the organization more attractive to younger employees.
 
 ## References
-- Dataset used in this analysis: [Attrition Dataset](./path-to-your-dataset.csv)
+- Dataset used in this analysis: [Attrition Dataset](https://github.com/Margnet-data/HR-DATA-LITA-CLASS/blob/main/HR%20Data.xlsx)
 - Additional resources and articles related to attrition trends.
 
